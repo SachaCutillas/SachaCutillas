@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SachaCutillas
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Machine Learning and Web Development
+- 📫 How to reach me : https://www.linkedin.com/in/sacha-cutillas-82a1081bb/
